@@ -33,8 +33,8 @@ To write a Java program to create a superclass Person with fields name and age, 
  ```
 /*
 Program to implement a Inheritance and Aggregation using Java
-Developed by: V.AMIRTHA VARSHINI
-RegisterNumber:  212224040021
+Developed by: Nandhini M
+RegisterNumber:  212224040211
 */
 ```
 
