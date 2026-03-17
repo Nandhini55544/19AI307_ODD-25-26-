@@ -31,8 +31,8 @@ To write a Java program that uses an interface WeatherBot to predict weather con
  ```
 /*
 Program to implement a Interface using Java
-Developed by: V.AMIRTHA VARSHINI
-RegisterNumber:  212224040021
+Developed by: Nandhini M
+RegisterNumber:  212224040211
 */
 ```
 
