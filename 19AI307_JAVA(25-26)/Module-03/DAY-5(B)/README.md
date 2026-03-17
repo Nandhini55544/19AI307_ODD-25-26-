@@ -26,8 +26,8 @@ To write a Java program to check whether a given number is an Armstrong number u
  ```
 /*
 Program to implement a Wrapper Class using Java
-Developed by: V.AMIRTHA VARSHINI
-RegisterNumber:  212224040021
+Developed by: Nandhini M
+RegisterNumber:  212224040211
 */
 ```
 
