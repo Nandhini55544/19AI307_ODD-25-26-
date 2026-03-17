@@ -62,7 +62,7 @@ public class ArrayOps {
 
 ## OUTPUT:
 
-![alt text](image.png)
+<img width="486" height="198" alt="image" src="https://github.com/user-attachments/assets/d8b8503f-5caf-4125-8810-2dac7f249976" />
 
 ## RESULT:
 
