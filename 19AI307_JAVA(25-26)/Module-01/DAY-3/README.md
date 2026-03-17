@@ -1,21 +1,34 @@
-# Ex.No:1(D) ARRAYS
+# Ex.No:1(C) LOOPING STATEMENT
 
 ## QUESTION:
 
-Write a Java Program to Find the Average of Array Elements.
+In mathematics, the factorial of a non-negative integer n, denoted as n!, is the product of all positive integers less than or equal to n. For example:
+
+5! = 5 × 4 × 3 × 2 × 1 = 120
+
+3! = 3 × 2 × 1 = 6
+
+0! is defined as 1.
+
+Write a Java program that prompts the user to enter a non-negative integer and then calculates and displays the factorial of the given number.
+
+Use a for loop to perform the calculation.
+
+Make sure to handle the case when the user enters 0.
+
+Display the result in a clear and user-friendly way.
 
 ## AIM:
 
-To write a Java program to find the average of elements in an array.
+To write a Java program to find the factorial of a given non-negative integer using a for loop.
 
 ## ALGORITHM :
 1.	Start the program.
 2.	Import the necessary package 'java.util'
-3.	Read the number of elements n from the user.
-4. Create an array and read n elements into the array while calculating the sum of elements.
-5. Compute the average using the formula:
-6. Average = Sum / Number of elements.
-7. Display the average of the array elements and stop the program.
+3.	Read a non-negative integer n from the user using Scanner.
+4. If n = 0, print "Factorial of 0 is: 1".
+5. Otherwise, use a for loop from 1 to n and multiply the numbers to calculate the factorial.
+6. Display the factorial result and end the program.
 
 
 
@@ -24,9 +37,9 @@ To write a Java program to find the average of elements in an array.
 ## PROGRAM:
  ```
 /*
-Program to implement a Array concept using Java
-Developed by: Nandhini M
-RegisterNumber:  212224040211
+Program to implement a Looping Statement using Java
+Developed by: Nandhini M 
+RegisterNumber: 212224040211  
 */
 ```
 
@@ -37,23 +50,31 @@ public class Main{
     public static void main(String[] args){
         Scanner sc=new Scanner(System.in);
         int n=sc.nextInt();
-        int[] a=new int[n];
-        double sum=0;
-        for(int i=0;i<n;i++){
-            a[i]=sc.nextInt();
-            sum+=a[i];
+        int f=1;
+        
+        if(n==0){
+            System.out.println("Factorial of 0 is: 1");
         }
-        double avg=sum/n;
-        System.out.printf("The average of elements is %.2f",avg);
+        else{
+             for(int i=1;i<=n;i++){
+                 f=f*i;
+             }
+             System.out.println("Factorial of "+n+" is: "+f);
+        }
+        
     }
 }
+
 ```
+
+
+
 
 ## OUTPUT:
 
-![WhatsApp Image 2026-03-13 at 2 41 28 PM](https://github.com/user-attachments/assets/d205e629-4d47-4c07-85d8-61f154770777)
+<img width="723" height="201" alt="image" src="https://github.com/user-attachments/assets/836b4a28-cf0a-4e11-9d6c-0ea6fa0169af" />
 
 
 ## RESULT:
 
-Thus, the Java program to find the average of array elements was executed successfully and the average value was obtained for the given input.
+The program executed successfully and displayed the factorial of the entered number.
