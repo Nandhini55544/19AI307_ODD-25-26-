@@ -27,8 +27,8 @@ To write a simple Java program to display the message “Hey, my first java prog
  ```
 /*
 Program to implement variables and Operators using Java
-Developed by: Venkat Ramana S B
-RegisterNumber: 212224060296 
+Developed by: Nandhini M
+RegisterNumber: 212224040211
 */
 ```
 
@@ -86,9 +86,9 @@ To write a Java program to simulate a magical elevator that prints different mes
 ## PROGRAM:
  ```
 /*
-Program to implement a conditional statement using Java
-Developed by: Venkat Ramana S B
-RegisterNumber:  212224060296 
+Program to implement variables and Operators using Java
+Developed by: Nandhini M
+RegisterNumber: 212224040211
 */
 ```
 
@@ -172,9 +172,9 @@ To write a Java program to find the factorial of a given non-negative integer us
 ## PROGRAM:
  ```
 /*
-Program to implement a Looping Statement using Java
-Developed by: Venkat Ramana S B
-RegisterNumber: 212224060296  
+Program to implement variables and Operators using Java
+Developed by: Nandhini M
+RegisterNumber: 212224040211
 */
 ```
 
@@ -241,9 +241,9 @@ To write a Java program to find the average of elements in an array.
 ## PROGRAM:
  ```
 /*
-Program to implement a Array concept using Java
-Developed by: Venkat Ramana S B
-RegisterNumber:  212224060296
+Program to implement variables and Operators using Java
+Developed by: Nandhini M
+RegisterNumber: 212224040211
 */
 ```
 
@@ -302,9 +302,9 @@ To write a Java program to reverse a given string.
 ## PROGRAM:
  ```
 /*
-Program to implement a Strings and Math Function using Java
-Developed by: Venkat Ramana S B
-RegisterNumber: 212224060296
+Program to implement variables and Operators using Java
+Developed by: Nandhini M
+RegisterNumber: 212224040211
 */
 ```
 
