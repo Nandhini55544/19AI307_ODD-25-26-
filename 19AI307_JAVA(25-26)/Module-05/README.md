@@ -17,8 +17,8 @@ To write character data into a file using the FileWriter class in Java.
  ```
 /*
 Program to implement a InputStreamReader using Java
-Developed by: Venkat Ramana S B
-RegisterNumber: 212224060296
+Developed by: Nandhini M
+RegisterNumber: 212224040211
 */
 ```
 
@@ -81,8 +81,8 @@ To demonstrate string compression and decompression using ByteArrayOutputStream,
  ```
 /*
 Program to implement a Serialization and Deserialization using Java
-Developed by: Venkat Ramana S B
-RegisterNumber: 212224060296
+Developed by: Nandhini M
+RegisterNumber: 212224040211
 */
 ```
 
@@ -165,8 +165,8 @@ To count and display the total number of characters in a file using FileReader.
  ```
 /*
 Program to implement a File Handling using Java
-Developed by: Venkat Ramana S B
-RegisterNumber: 212224060296
+Developed by: Nandhini M
+RegisterNumber: 212224040211
 */
 ```
 
@@ -250,8 +250,8 @@ To read a thread name from the user and display the current thread’s name and 
  ```
 /*
 Program to implement a Thread Priority Concept using Java
-Developed by: Venkat Ramana S B
-RegisterNumber: 212224060296
+Developed by: Nandhini M
+RegisterNumber: 212224040211
 */
 ```
 
@@ -326,8 +326,8 @@ To demonstrate the use of a synchronized block for safely swapping two integer v
  ```
 /*
 Program to implement a Synchronization concept using Java
-Developed by: Venkat Ramana S B
-RegisterNumber: 212224060296
+Developed by: Nandhini M
+RegisterNumber: 212224040211
 */
 ```
 
