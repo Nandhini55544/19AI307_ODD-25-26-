@@ -21,8 +21,8 @@ To write a Java program that checks whether an Integer object is null before cal
  ```
 /*
 Program to implement a Exception Handling using Java
-Developed by: Venkat Ramana S B
-RegisterNumber: 212224060296
+Developed by: Nandhini M
+RegisterNumber: 212224040211
 */
 ```
 
@@ -90,9 +90,9 @@ To implement a Java program that simulates a centralized print job manager using
 ## PROGRAM:
  ```
 /*
-Program to implement a SOLID Principles in Java Program
-Developed by: Venkat Ramana S B
-RegisterNumber: 212224060296
+Program to implement a Exception Handling using Java
+Developed by: Nandhini M
+RegisterNumber: 212224040211
 */
 ```
 
@@ -154,9 +154,9 @@ To demonstrate the Abstract Factory Pattern by creating families of related obje
 ## PROGRAM:
  ```
 /*
-Program to implement a Composition Concepts in Java
-Developed by: Venkat Ramana S B
-RegisterNumber: 212224060296
+Program to implement a Exception Handling using Java
+Developed by: Nandhini M
+RegisterNumber: 212224040211
 */
 ```
 
@@ -235,9 +235,9 @@ To implement the Factory Design Pattern to send different types of notifications
 ## PROGRAM:
  ```
 /*
-Program to implement a Abstract Factory Pattern using Java
-Developed by: Venkat Ramana S B
-RegisterNumber: 212224060296
+Program to implement a Exception Handling using Java
+Developed by: Nandhini M
+RegisterNumber: 212224040211
 */
 ```
 
@@ -320,9 +320,9 @@ To implement the Memento Design Pattern that allows saving and restoring version
 ## PROGRAM:
  ```
 /*
-Program to implement a Behaviour Pattern using Java
-Developed by: Venkat Ramana S B
-RegisterNumber: 212224060296
+Program to implement a Exception Handling using Java
+Developed by: Nandhini M
+RegisterNumber: 212224040211
 */
 ```
 
