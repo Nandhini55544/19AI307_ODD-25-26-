@@ -24,8 +24,8 @@ To write a Java program to create a Car class with attributes brand, model, and 
  ```
 /*
 Program to implement a Class and Objects using Java
-Developed by: Venkat Ramana S B
-RegisterNumber: 212224060296 
+Developed by: Nandhini M
+RegisterNumber: 212224040211
 */
 ```
 
@@ -93,9 +93,9 @@ To write a Java program to calculate the sum of elements in an integer array usi
 ## PROGRAM:
  ```
 /*
-Program to implement a Methods using Java
-Developed by: Venkat Ramana S B
-RegisterNumber:  212224060296
+Program to implement a Class and Objects using Java
+Developed by: Nandhini M
+RegisterNumber: 212224040211
 */
 ```
 
@@ -164,9 +164,9 @@ To write a Java program to create a class Smartphone with private instance varia
 ## PROGRAM:
  ```
 /*
-Program to implement a Access Specifiers using Java
-Developed by: Venkat Ramana S B
-RegisterNumber:  212224060296
+Program to implement a Class and Objects using Java
+Developed by: Nandhini M
+RegisterNumber: 212224040211
 */
 ```
 
@@ -274,9 +274,9 @@ To write a Java program to access a static variable using both the class name an
 ## PROGRAM:
  ```
 /*
-Program to implement a Variable scope and Constructor using Java
-Developed by: Venkat Ramana S B
-RegisterNumber:  212224060296
+Program to implement a Class and Objects using Java
+Developed by: Nandhini M
+RegisterNumber: 212224040211
 */
 ```
 
@@ -344,9 +344,9 @@ To write a Java program to create a class Calculator with a non-static method ad
 ## PROGRAM:
  ```
 /*
-Program to implement a Access Modifiers using Java
-Developed by: Venkat Ramana S B
-RegisterNumber:  212224060296
+Program to implement a Class and Objects using Java
+Developed by: Nandhini M
+RegisterNumber: 212224040211
 */
 ```
 
