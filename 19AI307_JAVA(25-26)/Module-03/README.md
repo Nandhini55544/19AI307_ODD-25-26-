@@ -33,8 +33,8 @@ To write a Java program to create a superclass Person with fields name and age, 
  ```
 /*
 Program to implement a Inheritance and Aggregation using Java
-Developed by: Venkat Ramana S B
-RegisterNumber:  212224060296
+Developed by: Nandhini M
+RegisterNumber:  212224040211
 */
 ```
 
@@ -135,9 +135,9 @@ To write a Java program to calculate the area of different shapes using method o
 ## PROGRAM:
  ```
 /*
-Program to implement a Polymorphism using Java
-Developed by: Venkat Ramana S B
-RegisterNumber:  212224060296
+Program to implement a Inheritance and Aggregation using Java
+Developed by: Nandhini M
+RegisterNumber:  212224040211
 */
 ```
 
@@ -211,9 +211,9 @@ To write a Java program using abstraction by creating an abstract class BankAcco
 ## PROGRAM:
  ```
 /*
-Program to implement a Abstraction using Java
-Developed by: Venkat Ramana S B
-RegisterNumber:  212224060296
+Program to implement a Inheritance and Aggregation using Java
+Developed by: Nandhini M
+RegisterNumber:  212224040211
 */
 ```
 
@@ -318,9 +318,9 @@ To write a Java program that uses an interface WeatherBot to predict weather con
 ## PROGRAM:
  ```
 /*
-Program to implement a Interface using Java
-Developed by: Venkat Ramana S B
-RegisterNumber:  212224060296
+Program to implement a Inheritance and Aggregation using Java
+Developed by: Nandhini M
+RegisterNumber:  212224040211
 */
 ```
 
@@ -412,9 +412,9 @@ To write a Java program where a private inner class is declared inside an outer 
 ## PROGRAM:
  ```
 /*
-Program to implement a InnerClass using Java
-Developed by: Venkat Ramana S B
-RegisterNumber:  212224060296
+Program to implement a Inheritance and Aggregation using Java
+Developed by: Nandhini M
+RegisterNumber:  212224040211
 */
 ```
 
@@ -487,9 +487,9 @@ To write a Java program to check whether a given number is an Armstrong number u
 ## PROGRAM:
  ```
 /*
-Program to implement a Wrapper Class using Java
-Developed by: Venkat Ramana S B
-RegisterNumber:  212224060296
+Program to implement a Inheritance and Aggregation using Java
+Developed by: Nandhini M
+RegisterNumber:  212224040211
 */
 ```
 
